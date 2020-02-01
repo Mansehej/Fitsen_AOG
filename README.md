@@ -1,4 +1,4 @@
-# Fitsen_AOG
+# Fitsen - Actions on Google
 
 With the busy schedule of the 21st century, people are finding it difficult to take out proper time for hitting the gym or to maintain a healthy lifestyle. This leads to not just physical, but mental problems. To counter this deteriorating lifestyle, we created Fitsen. Fitsen is a revolutionary voice-based fitness training system which gives you the power to model your workouts, exercises and keep your mental health in check according to the limited time you have available. 
 
